@@ -4,8 +4,8 @@ Este é um simples quiz interativo sobre Pokémon, construído com HTML, CSS e J
 
 ## Como Jogar
 
-1.  Clone este repositório para o seu computador.
-2.  Abra o arquivo `index.html` no seu navegador.
+1.  Acesse o dominio https://pokemon-quiz-weld.vercel.app/
+2.  Clique no botão "Jogar".
 3.  Responda às perguntas clicando na opção que você acredita ser a correta.
 4.  Ao final do quiz, sua pontuação será exibida.
 5.  Clique no botão "Jogar Novamente" para iniciar um novo jogo.
