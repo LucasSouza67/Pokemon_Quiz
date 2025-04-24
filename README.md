@@ -28,7 +28,6 @@ Este é um simples quiz interativo sobre Pokémon, construído com HTML, CSS e J
 
 ## Próximos Passos (Melhorias Possíveis)
 
-* **Estilização:** Adicionar um arquivo `style.css` para melhorar a aparência visual do quiz.
 * **Feedback Imediato:** Fornecer feedback visual imediato (por exemplo, cores diferentes) para indicar se a resposta selecionada estava correta ou incorreta antes de passar para a próxima pergunta.
 * **Randomização de Perguntas:** Apresentar as perguntas em ordem aleatória a cada vez que o jogo é iniciado.
 * **Banco de Perguntas Externo:** Carregar as perguntas de um arquivo JSON separado ou de uma API para facilitar a adição e modificação de perguntas.
