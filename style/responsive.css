@@ -1,0 +1,20 @@
+
+@media screen and (max-width: 760px){
+    body{
+         background-size: contain;
+         background-image: linear-gradient(to top, black , gray);
+    } 
+    .conteudo-jogo{
+        background: url("../imagens/pokemon.jfif") no-repeat center;
+        margin-top: 0.5rem;
+    }
+    .logo img{
+        width: 0;
+    }
+    /* Estilo da pergunta */
+  .pergunta {
+    font-size: small;
+    font-weight: 600;
+    color: white;
+  }
+}
